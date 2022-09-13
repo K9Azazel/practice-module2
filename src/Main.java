@@ -55,10 +55,10 @@ public class Main {
                     productManager.searchMaxPrice();
                     break;
                 case 7:
-//                    productManager.readFileProductList();
+//                    productManager.readFileCSV();
                     break;
                 case 8:
-//                    productManager.writeFileProduct("data/products.csv");
+//                    productManager.writeFileCSV("data/products.csv");
                     break;
                 case 9:
                     System.exit(0);
